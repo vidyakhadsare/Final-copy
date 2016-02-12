@@ -1,0 +1,364 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4830809B1C5822FC00075400 /* SkinTestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4830809A1C5822FC00075400 /* SkinTestViewController.swift */; };
+		48724BD71C5953010080C019 /* ChestXRAYViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48724BD61C5953010080C019 /* ChestXRAYViewController.swift */; };
+		69681C9A1C3CBF93005033F2 /* hpvViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69681C991C3CBF93005033F2 /* hpvViewController.swift */; };
+		69681C9C1C3CC8F5005033F2 /* menViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69681C9B1C3CC8F5005033F2 /* menViewController.swift */; };
+		697E3F9D1C3895120087A702 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697E3F9C1C3895120087A702 /* AppDelegate.swift */; };
+		697E3F9F1C3895120087A702 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697E3F9E1C3895120087A702 /* ViewController.swift */; };
+		697E3FA21C3895120087A702 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 697E3FA01C3895120087A702 /* Main.storyboard */; };
+		697E3FA41C3895120087A702 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 697E3FA31C3895120087A702 /* Assets.xcassets */; };
+		697E3FA71C3895120087A702 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 697E3FA51C3895120087A702 /* LaunchScreen.storyboard */; };
+		697E3FD11C3A0A3A0087A702 /* placeholder.png in Resources */ = {isa = PBXBuildFile; fileRef = 697E3FD01C3A0A3A0087A702 /* placeholder.png */; };
+		697E3FD31C3A29660087A702 /* HepatitusBViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697E3FD21C3A29660087A702 /* HepatitusBViewController.swift */; };
+		697E3FD51C3A6AE80087A702 /* RotavirusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697E3FD41C3A6AE80087A702 /* RotavirusViewController.swift */; };
+		69CAFC2C1C3B497D00DD982F /* DiptheriaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CAFC2B1C3B497D00DD982F /* DiptheriaViewController.swift */; };
+		69FD7D511C3C5D2600ECB094 /* HaemophilusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69FD7D501C3C5D2600ECB094 /* HaemophilusViewController.swift */; };
+		69FD7D531C3C65A300ECB094 /* PneumococcalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69FD7D521C3C65A300ECB094 /* PneumococcalViewController.swift */; };
+		69FD7D551C3C6F8600ECB094 /* PolioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69FD7D541C3C6F8600ECB094 /* PolioViewController.swift */; };
+		69FD7D571C3C8CAA00ECB094 /* mbrViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69FD7D561C3C8CAA00ECB094 /* mbrViewController.swift */; };
+		69FD7D591C3C9A6D00ECB094 /* VaricellaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69FD7D581C3C9A6D00ECB094 /* VaricellaViewController.swift */; };
+		69FD7D5B1C3CA4FD00ECB094 /* HepatitisAViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69FD7D5A1C3CA4FD00ECB094 /* HepatitisAViewController.swift */; };
+		69FD7D5D1C3CB9A200ECB094 /* InfluenzaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69FD7D5C1C3CB9A200ECB094 /* InfluenzaViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4830809A1C5822FC00075400 /* SkinTestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SkinTestViewController.swift; sourceTree = "<group>"; };
+		48724BD61C5953010080C019 /* ChestXRAYViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ChestXRAYViewController.swift; path = ../ChestXRAYViewController.swift; sourceTree = "<group>"; };
+		69681C991C3CBF93005033F2 /* hpvViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = hpvViewController.swift; sourceTree = "<group>"; };
+		69681C9B1C3CC8F5005033F2 /* menViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = menViewController.swift; sourceTree = "<group>"; };
+		697E3F991C3895120087A702 /* VacWatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VacWatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		697E3F9C1C3895120087A702 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		697E3F9E1C3895120087A702 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		697E3FA11C3895120087A702 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		697E3FA31C3895120087A702 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		697E3FA61C3895120087A702 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		697E3FA81C3895120087A702 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		697E3FD01C3A0A3A0087A702 /* placeholder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = placeholder.png; sourceTree = "<group>"; };
+		697E3FD21C3A29660087A702 /* HepatitusBViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HepatitusBViewController.swift; sourceTree = "<group>"; };
+		697E3FD41C3A6AE80087A702 /* RotavirusViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RotavirusViewController.swift; sourceTree = "<group>"; };
+		69CAFC2B1C3B497D00DD982F /* DiptheriaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiptheriaViewController.swift; sourceTree = "<group>"; };
+		69FD7D501C3C5D2600ECB094 /* HaemophilusViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HaemophilusViewController.swift; sourceTree = "<group>"; };
+		69FD7D521C3C65A300ECB094 /* PneumococcalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PneumococcalViewController.swift; sourceTree = "<group>"; };
+		69FD7D541C3C6F8600ECB094 /* PolioViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PolioViewController.swift; sourceTree = "<group>"; };
+		69FD7D561C3C8CAA00ECB094 /* mbrViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mbrViewController.swift; sourceTree = "<group>"; };
+		69FD7D581C3C9A6D00ECB094 /* VaricellaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VaricellaViewController.swift; sourceTree = "<group>"; };
+		69FD7D5A1C3CA4FD00ECB094 /* HepatitisAViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HepatitisAViewController.swift; sourceTree = "<group>"; };
+		69FD7D5C1C3CB9A200ECB094 /* InfluenzaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfluenzaViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		697E3F961C3895120087A702 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		697E3F901C3895120087A702 = {
+			isa = PBXGroup;
+			children = (
+				697E3F9B1C3895120087A702 /* VacWatch2.0 */,
+				697E3F9A1C3895120087A702 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		697E3F9A1C3895120087A702 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				697E3F991C3895120087A702 /* VacWatch.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		697E3F9B1C3895120087A702 /* VacWatch2.0 */ = {
+			isa = PBXGroup;
+			children = (
+				48724BD61C5953010080C019 /* ChestXRAYViewController.swift */,
+				697E3FD01C3A0A3A0087A702 /* placeholder.png */,
+				697E3F9C1C3895120087A702 /* AppDelegate.swift */,
+				697E3F9E1C3895120087A702 /* ViewController.swift */,
+				697E3FD21C3A29660087A702 /* HepatitusBViewController.swift */,
+				697E3FA01C3895120087A702 /* Main.storyboard */,
+				4830809A1C5822FC00075400 /* SkinTestViewController.swift */,
+				69FD7D521C3C65A300ECB094 /* PneumococcalViewController.swift */,
+				69FD7D541C3C6F8600ECB094 /* PolioViewController.swift */,
+				69FD7D581C3C9A6D00ECB094 /* VaricellaViewController.swift */,
+				69FD7D5A1C3CA4FD00ECB094 /* HepatitisAViewController.swift */,
+				69FD7D5C1C3CB9A200ECB094 /* InfluenzaViewController.swift */,
+				69681C991C3CBF93005033F2 /* hpvViewController.swift */,
+				69681C9B1C3CC8F5005033F2 /* menViewController.swift */,
+				69FD7D561C3C8CAA00ECB094 /* mbrViewController.swift */,
+				69FD7D501C3C5D2600ECB094 /* HaemophilusViewController.swift */,
+				69CAFC2B1C3B497D00DD982F /* DiptheriaViewController.swift */,
+				697E3FD41C3A6AE80087A702 /* RotavirusViewController.swift */,
+				697E3FA31C3895120087A702 /* Assets.xcassets */,
+				697E3FA51C3895120087A702 /* LaunchScreen.storyboard */,
+				697E3FA81C3895120087A702 /* Info.plist */,
+			);
+			name = VacWatch2.0;
+			path = ImmunizationRecord;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		697E3F981C3895120087A702 /* ImmunizationRecord */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 697E3FAB1C3895120087A702 /* Build configuration list for PBXNativeTarget "ImmunizationRecord" */;
+			buildPhases = (
+				697E3F951C3895120087A702 /* Sources */,
+				697E3F961C3895120087A702 /* Frameworks */,
+				697E3F971C3895120087A702 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ImmunizationRecord;
+			productName = ImmunizationRecord;
+			productReference = 697E3F991C3895120087A702 /* VacWatch.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		697E3F911C3895120087A702 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Anhad S Bhasin";
+				TargetAttributes = {
+					697E3F981C3895120087A702 = {
+						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = XQY9UVT6LP;
+					};
+				};
+			};
+			buildConfigurationList = 697E3F941C3895120087A702 /* Build configuration list for PBXProject "VacWatch" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 697E3F901C3895120087A702;
+			productRefGroup = 697E3F9A1C3895120087A702 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				697E3F981C3895120087A702 /* ImmunizationRecord */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		697E3F971C3895120087A702 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				697E3FA71C3895120087A702 /* LaunchScreen.storyboard in Resources */,
+				697E3FA41C3895120087A702 /* Assets.xcassets in Resources */,
+				697E3FD11C3A0A3A0087A702 /* placeholder.png in Resources */,
+				697E3FA21C3895120087A702 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		697E3F951C3895120087A702 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				69FD7D571C3C8CAA00ECB094 /* mbrViewController.swift in Sources */,
+				69681C9C1C3CC8F5005033F2 /* menViewController.swift in Sources */,
+				48724BD71C5953010080C019 /* ChestXRAYViewController.swift in Sources */,
+				4830809B1C5822FC00075400 /* SkinTestViewController.swift in Sources */,
+				69CAFC2C1C3B497D00DD982F /* DiptheriaViewController.swift in Sources */,
+				69681C9A1C3CBF93005033F2 /* hpvViewController.swift in Sources */,
+				697E3F9F1C3895120087A702 /* ViewController.swift in Sources */,
+				69FD7D5D1C3CB9A200ECB094 /* InfluenzaViewController.swift in Sources */,
+				69FD7D511C3C5D2600ECB094 /* HaemophilusViewController.swift in Sources */,
+				69FD7D591C3C9A6D00ECB094 /* VaricellaViewController.swift in Sources */,
+				697E3F9D1C3895120087A702 /* AppDelegate.swift in Sources */,
+				697E3FD51C3A6AE80087A702 /* RotavirusViewController.swift in Sources */,
+				69FD7D531C3C65A300ECB094 /* PneumococcalViewController.swift in Sources */,
+				69FD7D551C3C6F8600ECB094 /* PolioViewController.swift in Sources */,
+				697E3FD31C3A29660087A702 /* HepatitusBViewController.swift in Sources */,
+				69FD7D5B1C3CA4FD00ECB094 /* HepatitisAViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		697E3FA01C3895120087A702 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				697E3FA11C3895120087A702 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		697E3FA51C3895120087A702 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				697E3FA61C3895120087A702 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		697E3FA91C3895120087A702 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		697E3FAA1C3895120087A702 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		697E3FAC1C3895120087A702 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = ImmunizationRecord/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.anhadsbhasin.vaccinus;
+				PRODUCT_NAME = VacWatch;
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		697E3FAD1C3895120087A702 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = ImmunizationRecord/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.anhadsbhasin.vaccinus;
+				PRODUCT_NAME = VacWatch;
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		697E3F941C3895120087A702 /* Build configuration list for PBXProject "VacWatch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				697E3FA91C3895120087A702 /* Debug */,
+				697E3FAA1C3895120087A702 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		697E3FAB1C3895120087A702 /* Build configuration list for PBXNativeTarget "ImmunizationRecord" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				697E3FAC1C3895120087A702 /* Debug */,
+				697E3FAD1C3895120087A702 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 697E3F911C3895120087A702 /* Project object */;
+}
